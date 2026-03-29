@@ -25,4 +25,7 @@ implications for improvement, such the integration of a real local payment gatew
 slot-expiry mechanisms. Currently, this application only aims to show as proof-of-concept of these
 discussed features and their performance with limitations.
 
+Read Full Paper:
+https://journal.vu.edu.pk/Data/volumes/14/icet_01_1225004_274.pdf
+
 Keywords: : Electric Vehicles, Charging Station, Digital Cloud-based Platform
